@@ -95,7 +95,7 @@ const pages = {
       whyTitle: 'Nega SamGlass?',
       whyText: 'Oynalarimiz yuqori harorat va bosimga chidamli. Samglass — ko‘p yillik tajriba va yetuk mutaxassislarga ega kompaniya. O‘lcham tanlash, yetkazib berish va mahsulotingizni o‘z vaqtida tayyorlash xizmatlarini kafolatlaymiz!',
       stats: [
-        { num: '3000 м²', label: 'Ishlab chiqarish maydoni' },
+        { num: '3000 m²', label: 'Ishlab chiqarish maydoni' },
         { num: '4500+', label: 'Mamnun mijozlar' },
         { num: '100+', label: 'Amalga oshirilgan loyihalar' },
         { num: '10+', label: 'Yillik tajriba' },
@@ -153,7 +153,7 @@ const pages = {
       whyTitle: 'Why SamGlass?',
       whyText: 'Our glass is resistant to high temperatures and pressure. Samglass is a company with years of experience and mature specialists. We guarantee sizing, delivery and timely preparation of your products!',
       stats: [
-        { num: '3000 м²', label: 'Production area' },
+        { num: '3000 m²', label: 'Production area' },
         { num: '4500+', label: 'Satisfied customers' },
         { num: '100+', label: 'Realized projects' },
         { num: '10+', label: 'Years of experience' },

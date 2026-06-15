@@ -49,7 +49,7 @@ const serviceImg = [
 const home = {
   ru: {
     hero: {
-      title: 'Воплощаем современный стиль и качество',
+      title: 'Современное стекло для вашего пространства',
       sub: 'Предоставляя разнообразие форм и типов для любых зданий — гармония современного дизайна и функциональности для вашего пространства.',
       cta: 'Связаться с нами',
       catalog: 'Смотреть каталог',
@@ -108,8 +108,8 @@ const home = {
 
   uz: {
     hero: {
-      title: 'Samglass oynalari bilan uyingizning har bir ko‘rinishini o‘zgartiring',
-      sub: 'Makoningizga hashamdor ko‘rinish va betakror uslub taqdim etadigan, o‘zida zamonaviy dizayn va funksionallikni uyg‘unlashtirgan Samglass oynalari.',
+      title: 'Makoningiz uchun zamonaviy shisha yechimlari',
+      sub: 'Har qanday bino uchun turli shakl va turdagi yechimlar — makoningiz uchun zamonaviy dizayn va funksionallik uyg‘unligi.',
       cta: 'Bog‘lanish',
       catalog: 'Katalogni ko‘rish',
     },
@@ -144,7 +144,7 @@ const home = {
       { num: '100+', label: 'Amalga oshirilgan loyihalar' },
       { num: '4500+', label: 'Mamnun mijozlar' },
       { num: '10+', label: 'Yillik tajriba' },
-      { num: '3000 м²', label: 'Ishlab chiqarish maydoni' },
+      { num: '3000 m²', label: 'Ishlab chiqarish maydoni' },
     ],
     projectsTitle: 'Loyihalar',
     projects: [
@@ -167,8 +167,8 @@ const home = {
 
   en: {
     hero: {
-      title: 'Turn your home into a work of art with Samglass facade glass',
-      sub: 'Transform every view of your home with facade glass from Samglass — a harmony of modern design and functionality that gives your space a majestic look and unique style.',
+      title: 'Modern glass for your space',
+      sub: 'A variety of forms and types for any building — a harmony of modern design and functionality for your space.',
       cta: 'Contact us',
       catalog: 'View catalog',
     },
@@ -203,7 +203,7 @@ const home = {
       { num: '100+', label: 'Realized projects' },
       { num: '4500+', label: 'Satisfied customers' },
       { num: '10+', label: 'Years of experience' },
-      { num: '3000 м²', label: 'Production area' },
+      { num: '3000 m²', label: 'Production area' },
     ],
     projectsTitle: 'Projects',
     projects: [
